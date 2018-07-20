@@ -4,5 +4,5 @@
 <br/>
 輸出：以『 ＊ 』排成的菱形圖案
 <br/>
-
+<br/>
 ![image](https://github.com/veryjimmy/Cpp-Programming_hw2/blob/master/ex1.png)
